@@ -6,12 +6,13 @@
 
 # Ignore bundler config.
 /.bundle
-
+node_modules
 # Ignore all logfiles and tempfiles.
 /log/*
 /tmp/*
 !/log/.keep
 !/tmp/.keep
+node_modules/
 
 # Ignore node modules
 /node_modules
