@@ -23,7 +23,7 @@
   - [📝 License ](#-license-)
 
 <!-- PROJECT DESCRIPTION -->
-## 🚀[Hello React Front-End PR Link](https://github.com/TaiwoEnoch/hello-rails-front-end.git)
+## 🚀[Hello React Front-End PR Link](https://github.com/TaiwoEnoch/hello-rails-react.git)
 
 # 📖 Hello-rails-back-end<a name="about-project"></a>
 
@@ -85,7 +85,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd your-desired-folder
-  https://github.com/TaiwoEnoch/hello-rails-back-end.git
+  https://github.com/TaiwoEnoch/hello-rails-react.git
 ```
 
 ### Install
@@ -143,7 +143,7 @@ rails s
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/TaiwoEnoch/hello-rails-back-end/issues).
+Feel free to check the [issues page](https://github.com/TaiwoEnoch/hello-rails-react/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
