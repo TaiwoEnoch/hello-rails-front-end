@@ -23,7 +23,7 @@
   - [📝 License ](#-license-)
 
 <!-- PROJECT DESCRIPTION -->
-## 🚀[Hello React Front-End PR Link](https://github.com/TaiwoEnoch/hello-rails-react.git)
+## 🚀[Hello React Front-End PR Link](https://github.com/TaiwoEnoch/hello-rails-frontend.git))]
 
 # 📖 Hello-rails-back-end<a name="about-project"></a>
 
